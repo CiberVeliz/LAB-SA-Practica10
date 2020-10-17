@@ -25,4 +25,4 @@ sudo docker-compose down
 Si en ninguno de los pasos anteriores ocurrió un error, se debería de visualizar los 3 microservicios y el ESB en los puertos especificados en el .env.
 
 ## Video
-[Explicación](https://drive.google.com/file/d/1dW_pBFtKxxfPIoqvfPs4YmM1pj5EHlz8/view?usp=sharing)
+[Explicación](https://drive.google.com/file/d/1XkC4z3fWFT-xjsyJA4ggQ2AUw3Yj5M7s/view?usp=sharing)
