@@ -1,1 +1,26 @@
+version: "3.3"
 
+services:
+    webserver_repartidor:
+        build: ./microservicio_repartidor
+        container_name: webserver_repartidor
+        ports:
+            - 8080:80
+
+    webserver_restaurante:
+        build: ./microservicio_restaurante
+        container_name: webserver_restaurante
+        ports:
+            - 8081:80
+
+    webserver_cliente:
+        build: ./microservicio_cliente
+        container_name: webserver_cliente
+        ports:
+            - 8082:80
+
+    webserver_esb:
+        build: ./ESB
+        container_name: webserver_esb
+        ports:
+            - 8083:80

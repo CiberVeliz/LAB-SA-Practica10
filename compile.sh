@@ -1,7 +1,7 @@
-zip -r EBS.zip EBS
+zip -r build/ESB.zip ESB
 
-zip -r cliente.zip microservicio_cliente
+zip -r build/cliente.zip microservicio_cliente
 
-zip -r repartidor.zip microservicio_repartidor/
+zip -r build/repartidor.zip microservicio_repartidor/
 
-zip -r restaurante.zip microservicio_restaurante/
+zip -r build/restaurante.zip microservicio_restaurante/
