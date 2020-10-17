@@ -3,7 +3,7 @@
 Esta rama contiene la práctica #10 del curso de software avanzado, la cual consiste en utilizar docker, docker-compose para desplegar el software desarrollado en la practica #7. Esto haciendo uso de volumenes y creación de imágenes.
 
 ## Practica #7
-[Repositorio](https://github.com/CiberVeliz/LAB-SA-Practica5/blob/master/README.md)
+[Repositorio](https://github.com/CiberVeliz/LAB-SA-Practica5)
 
 ## Versiones de herramientas utilizadas
 - Docker: 19.03.6, build 369ce74a3c
