@@ -1,6 +1,7 @@
-# LAB-SA-Practica10
+# LAB-SA-Practica11
 ## José Manuel Véliz Sandoval - 201602959
-Esta rama contiene la práctica #10 del curso de software avanzado, la cual consiste en utilizar docker, docker-compose para desplegar el software desarrollado en la practica #7. Esto haciendo uso de volumenes y creación de imágenes.
+Esta rama contiene la práctica #11 del curso de software avanzado, la cual consiste en utilizar docker, docker-compose para desplegar el software desarrollado en la practica #7. Esto haciendo uso de volumenes y creación de imágenes.
+Además de esto se debe de configurar un proxy inverso para exponer todos los microservicios en el puerto 80.
 
 ## Practica #7
 [Repositorio](https://github.com/CiberVeliz/LAB-SA-Practica5)
@@ -25,4 +26,4 @@ sudo docker-compose down
 Si en ninguno de los pasos anteriores ocurrió un error, se debería de visualizar los 3 microservicios y el ESB en los puertos especificados en el .env.
 
 ## Video
-[Explicación](https://drive.google.com/file/d/1XkC4z3fWFT-xjsyJA4ggQ2AUw3Yj5M7s/view?usp=sharing)
+[Explicación](https://drive.google.com/file/d/1MS0P4S3Chl9FHM9bD6bk6UJep0Bcu47o/view?usp=sharing)
